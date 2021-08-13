@@ -19,3 +19,5 @@ A script for joy library in python to run it natively in any text editor.
 ## Limitations
 
 - Only available for linux platforms.
+
+#### To learn more about joy, [click here](https://mon.school/courses/the-joy-of-programming)
